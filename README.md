@@ -1,16 +1,16 @@
-# foundry-template
+# Consentual Contracts
 
-Streamlined template for getting started with Foundry and Solmate.
+Rcording consentual encounters, on-chain.
 
-## Contributing
+## Consent
 
-You will need a copy of [Foundry](https://github.com/foundry-rs/foundry) installed before proceeding. See the [installation guide](https://github.com/foundry-rs/foundry#installation) for details.
+Many in crypto were f*cked unconsentually by Luna and UST. This contract serves as a POC for recording consentual encounters on chain.
 
 ### Setup
 
 ```sh
-git clone https://github.com/transmissions11/foundry-template.git
-cd foundry-template
+git clone https://github.com/0xkoda/Consent.git
+cd Consent
 ```
 
 ### Run Tests
