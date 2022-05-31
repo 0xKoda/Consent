@@ -1,6 +1,6 @@
 # Consentual Contracts
 
-Rcording consentual encounters, on-chain.
+Rcording consentual agreements, on-chain.
 
 ## Consent
 
