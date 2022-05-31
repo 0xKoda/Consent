@@ -1,5 +1,4 @@
 # Consentual Contracts
-<img src="https://i.kym-cdn.com/photos/images/facebook/000/918/911/251.jpg">
 
 Rcording consentual encounters, on-chain.
 
@@ -25,3 +24,5 @@ forge test
 ```sh
 forge snapshot
 ```
+### Do I have your conesnt, anon?
+<img src="./consent.png">
