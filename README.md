@@ -19,10 +19,5 @@ cd Consent
 forge test
 ```
 
-### Update Gas Snapshots
-
-```sh
-forge snapshot
-```
 ### Do I have your conesnt, anon?
 <img src="./consent.png">
