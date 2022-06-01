@@ -7,6 +7,8 @@ contract Consent {
     }
     mapping(address => User) users;
 
+    //mapping(address => mapping(address => bool)) public userConsent;
+
     function initConsent(address counterParty) public returns (bool) {
         require(counterParty != address(0), "Counterparty address is invalid");
         require(counterParty != msg.sender, "Counterparty address is invalid");
