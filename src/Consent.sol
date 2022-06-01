@@ -16,6 +16,7 @@ contract Consent {
     function checkConsent(address counterParty) public view returns(bool) {
         require(counterParty != address(0), "Counterparty address is invalid");
         require(counterParty != msg.sender, "Counterparty address is invalid");
+        
         return userConsent[msg.sender][counterParty] == true ? true : false;
     }
 }
