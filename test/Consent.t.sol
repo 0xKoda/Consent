@@ -14,7 +14,7 @@ contract ConsentTest is DSTestPlus {
     }
 
     function testConsent() public {
-        consent.initConsent(_counterParty);
+        consent.setConsent(_counterParty);
         assert(consent.checkConsent(_counterParty) == true);
     }
 }
